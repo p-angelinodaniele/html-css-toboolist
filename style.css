@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 
@@ -12,19 +13,43 @@
 }
 
 #font-header{
-    font-family: Arial, Helvetica, sans-serif;
+    
     font-size: 50px;
     vertical-align: middle;
 }
 
 
 #main{
-    background-color: antiquewhite;
+    background-color: lightgrey;
+    padding-top: 50px;
+    padding-bottom: 25px;
 }
 
 
-#container-botton-1{
+#container-botton{
     width: 50%;
-    margin: 0 auto;
+    margin: auto;
+    background-color: white;
+   padding: 20px;
+    border-radius: 4px;
+    border: 2px;
+    
+    
 
+}
+
+#botton-1{
+    margin-left: 20px;
+    border: 2px solid dodgerblue;
+    background-color:dodgerblue;
+    border-radius: 4px;
+    padding: 10px;
+    color: white;
+    
+}
+#botton-2{
+    border: 2px solid lightgrey;
+    border-radius: 4px;
+    padding: 9px;
+    color: lightgrey;
 }
