@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+#logo-png{
+    width: 75px;
+    vertical-align: middle;
+   
+    
+}
+
+#font-header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    vertical-align: middle;
+}
+
+
+#main{
+    background-color: antiquewhite;
+}
+
+
+#container-botton-1{
+    width: 50%;
+    margin: 0 auto;
+
+}
